@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+    font-size: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;;
+}
+
+h1 {
+    text-align: center;
+}
+

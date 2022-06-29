@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+li {
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
